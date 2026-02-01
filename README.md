@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on a chatting app named SoniApp, architecting both the iOS client and the manual server setup from the ground up(for learning-improving purposes).
+- 🌱 I’m currently learning Advanced Swift & Apple Ecosystem
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/denizyakar/).
 
 <!--
 **denizyakar/denizyakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
