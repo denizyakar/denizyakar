@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a chatting app named SoniApp, architecting both the iOS client and the manual server setup from the ground up(for learning-improving purposes).
+- 🔭 I’m currently working on a chatting app named SoniApp, architecting both the iOS client and the manual server setup from the ground up(for learning and hobby purposes).
 - 🌱 I’m currently learning Advanced Swift, Software Design Patterns & Clean Architecture principles.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/denizyakar/) & denizyakar06@gmail.com.
 
