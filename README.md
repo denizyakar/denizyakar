@@ -17,12 +17,7 @@
 - Guitarist outside of work — most of my side projects end up somewhere near music 🎸
 - You can reach me on [LinkedIn](https://linkedin.com/in/denizyakar)
 - Welcome to my GitHub 🍧
-
 <br clear="all">
-
-### Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/denizyakar)
 
 ### Tech Stack 🛠️
 
