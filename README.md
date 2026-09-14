@@ -44,6 +44,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000)
 ![Unity](https://img.shields.io/badge/-Unity-%23000000?style=flat&logo=unity&logoColor=ffffff)
 
+<!--
+
 ### Activity <picture><img src="/Statistics.gif" width="30" alt="Statistics"></picture>
 
 <div align="center">
@@ -71,6 +73,16 @@
 ### GitHub Stats <picture><img src="/Statistics.gif" width="30" alt="Statistics"></picture>
 
 <img src="https://github-readme-stats-denizyakar.vercel.app/api?username=denizyakar&show_icons=true&theme=github_dark_dimmed" alt="GitHub stats" width="450">
+
+<br clear="all">
+
+-->
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made_with_❤️_by-Deniz-00FFFF?style=flat-square" />
+</div>
 
 <br clear="all">
 
