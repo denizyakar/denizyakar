@@ -8,7 +8,7 @@
 
 ### About Me
 
-<div><img align="right" alt="GIF" src="/lain.gif" width="300" /></div>
+<div><img align="right" alt="GIF" src="/lain.gif" width="290" /></div>
 
 - Hi, I'm Deniz — a mobile developer based in Ankara, Turkiye 🗻
 - iOS Developer by background, currently working as an Android Developer Intern 📱
