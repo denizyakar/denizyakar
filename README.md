@@ -8,13 +8,14 @@
 
 ### About Me
 
-<div><img align="right" alt="GIF" src="/cartoon.webp" width="300" /></div>
+<div><img align="right" alt="GIF" src="/lain.gif" width="300" /></div>
 
 - Hi, I'm Deniz — a mobile developer based in Ankara, Turkiye 🗻
 - iOS Developer by background, currently working as an Android Developer Intern 📱
 - Swift and SwiftUI on iOS, Kotlin and Jetpack Compose on Android — lately also Compose Multiplatform 👨‍💻
-- Interested in digital audio processing, low-level computing and game development 🚀
+- Interested in building PCs, digital audio processing, low-level computing and game development 🚀
 - Guitarist outside of work — most of my side projects end up somewhere near music 🎸
+- You can reach me on [LinkedIn](https://linkedin.com/in/denizyakar)
 - Welcome to my GitHub 🍧
 
 <br clear="all">
