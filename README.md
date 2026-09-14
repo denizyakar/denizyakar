@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Futura&color=cyan&size=25&center=true&vCenter=true&width=900&height=40&lines=Hello%2C+I%27m+Deniz+from+Ankara%2C+Turkiye+%F0%9F%97%BB;iOS+Developer%2C+currently+an+Android+Developer+Intern+%F0%9F%93%B1;Swift%2C+SwiftUI%2C+Kotlin+and+Jetpack+Compose+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Interested+in+Audio+DSP%2C+Low-Level+Computing+and+Game+Dev+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%8D%A8;">
   </a>
 </p>
-
 ### About Me
 
 <div><img align="right" alt="GIF" src="/lain.gif" width="290" /></div>
