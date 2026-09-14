@@ -18,7 +18,6 @@
 - You can reach me on [LinkedIn](https://linkedin.com/in/denizyakar)
 - Welcome to my GitHub 🍧
 <br clear="all">
-
 ### Tech Stack 🛠️
 
 ![Swift](https://img.shields.io/badge/-Swift-%23F05138?style=flat&logo=swift&logoColor=ffffff)
