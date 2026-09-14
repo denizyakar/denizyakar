@@ -85,9 +85,3 @@
 </div>
 
 <br clear="all">
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Made_with_❤️_by-Deniz-00FFFF?style=flat-square" />
-</div>
